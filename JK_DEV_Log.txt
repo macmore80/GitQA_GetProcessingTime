@@ -1,0 +1,4 @@
+오후 8:58 2023-02-23
+이유는 잘 모르지만 일단 수정된 내용 또는 파일이 존재할 경우 git bash로  github 에 
+new branch 로 올리면 local teamcity에서 빌드는 했는데 *.csv 파일이 없다.
+강제로 teamcity에서 run 을 실행했더는 *.csv 파일이 생김.
