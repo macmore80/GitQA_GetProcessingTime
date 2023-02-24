@@ -14,7 +14,7 @@ namespace Example.Runtime
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test Start!");
+            Console.WriteLine("Test Start-20230224");
             // Initializes the control, This initialization does not allocate any gpu ressources.
             using (ViDi2.Runtime.Local.Control control = new ViDi2.Runtime.Local.Control(GpuMode.Deferred))
             {
